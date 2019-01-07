@@ -1,6 +1,6 @@
 # readings
 
-A curated list of readings on computer sciences
+A curated list of readings on computer sciences, and a few more things around related to it.
 
 ## People
 
@@ -54,6 +54,10 @@ A curated list of readings on computer sciences
 - [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
 - [Here’s Why Mapping a Constructed Array in JavaScript Doesn’t Work](https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a)
 
+## TypeScript
+
+- [Duck typing vs. Nominal (structural) typing](https://en.wikipedia.org/wiki/Nominal_type_system)
+
 ## Front-end
 
 ### UX / UI
@@ -66,6 +70,7 @@ A curated list of readings on computer sciences
 
 ### React
 
+- [React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html)
 - [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
@@ -87,7 +92,7 @@ A curated list of readings on computer sciences
 
 ### NodeJS
 
-- [The only NodeJs introduction you’ll ever need.](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
+- [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 ## IA
@@ -112,4 +117,5 @@ A curated list of readings on computer sciences
 
 ## Work
 
-- [Bien-être au travail : l’erreur médiatique.](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
+- [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
+- [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
