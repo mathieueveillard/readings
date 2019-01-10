@@ -102,6 +102,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Why AlphaGo is not AI](http://parisinnovationreview.com/articles-en/why-alphago-is-not-ai)
 - [Artificial Intelligence Pioneer Says We Need to Start Over](https://cacm.acm.org/news/221108-artificial-intelligence-pioneer-says-we-need-to-start-over/fulltext#.WtdqedeT8_w.twitter)
 
+## Blockchain
+
+- [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
+
 ## Open Source
 
 - [5 ways open source software companies make money](https://blog.timescale.com/how-open-source-software-makes-money-time-series-database-f3e4be409467)
