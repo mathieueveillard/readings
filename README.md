@@ -96,6 +96,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
+## Security
+
+- [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
+
 ## IA
 
 - [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
