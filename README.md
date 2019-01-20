@@ -22,6 +22,20 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/?utm_medium=offsite&utm_source=medium&utm_campaign=all)
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
 
+## Giving a talk
+
+- [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
+
+## Team work
+
+- [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
+
+## Testing, TDD, BDD
+
+- [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+- [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
+
 ## Paradigms
 
 ### Functional Programming (in JavaScript)
@@ -35,6 +49,10 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [Severin Perez](https://medium.com/@severinperez)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+
+## Languages
+
+- [Languages cheat sheet](https://makeawebsitehub.com/which-programming-language/)
 
 ## Operating Systems
 
@@ -54,6 +72,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [A deep dive into this in JavaScript: why it’s critical to writing good code.](https://medium.freecodecamp.org/a-deep-dive-into-this-in-javascript-why-its-critical-to-writing-good-code-7dca7eb489e7)
 - [JavaScript async/await: The Good Part, Pitfalls and How to Use](https://hackernoon.com/javascript-async-await-the-good-part-pitfalls-and-how-to-use-9b759ca21cda)
 - [Here’s Why Mapping a Constructed Array in JavaScript Doesn’t Work](https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a)
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 
 ## TypeScript
 
@@ -97,12 +116,24 @@ A curated list of readings on computer sciences, and a few more things around re
 - [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
+## Mobile
+
+- [Mobile Website vs. Mobile App: Which is Best for Your Organization?](https://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/)
+
+## Algorithms
+
+- [Programmation dynamique](https://fr.wikipedia.org/wiki/Programmation_dynamique)
+
 ## Security
 
 - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
+- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+- [RESTful Authentication](https://blog.ineat-conseil.fr/2013/01/restful-authentication/)
+- [The Da Vinci Zero Knowledge Proof](https://medium.com/swlh/the-da-vinci-zero-knowledge-proof-d6271363382b)
 
 ## IA
 
+- [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 - [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
 - [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 - [Why AlphaGo is not AI](http://parisinnovationreview.com/articles-en/why-alphago-is-not-ai)
@@ -112,14 +143,23 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
 
+## Mesh networks
+
+- [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
+
 ## Open Source
 
 - [5 ways open source software companies make money](https://blog.timescale.com/how-open-source-software-makes-money-time-series-database-f3e4be409467)
+- [Choose an open source license](https://choosealicense.com/)
 - [Open source without maintainers](https://staltz.com/open-source-without-maintainers.html)
 
 ## Versioning
 
 - [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
+- [Become a git guru.](https://www.atlassian.com/git/tutorials)
+- [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+- [FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
+- [Semantic Versioning](https://semver.org/)
 
 ## Debugging
 
@@ -133,3 +173,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
+- [How to write a great developer résumé and showcase your software engineering skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
+- [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
+- [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
+- [One Simple Trait That Will Advance Your Software Career](https://medium.com/@toddhd/one-simple-trait-that-will-advance-your-software-career-7a88bd505f59)
