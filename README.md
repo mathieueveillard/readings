@@ -64,6 +64,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 - [Eric Elliott](https://medium.com/@_ericelliott)
 - [Un gros Troll de plus sur Javascript](http://sametmax.com/un-gros-troll-de-plus-sur-javacscript/)
+- [The cost of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
