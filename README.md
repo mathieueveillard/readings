@@ -113,7 +113,6 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ### NodeJS
 
-- [The only NodeJs introduction you’ll ever need](https://codeburst.io/the-only-nodejs-introduction-youll-ever-need-d969a47ef219)
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 
 ## Mobile
