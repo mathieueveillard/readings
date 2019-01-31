@@ -164,6 +164,7 @@ A curated list of readings on computer sciences, and a few more things around re
 ## Debugging
 
 - [10 Tips to gain Mastery at Fixing Bugs](https://michaelscodingspot.com/2018/03/22/10-tips-gain-mastery-fixing-bugs/)
+- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
 
 ## Ethics
 
