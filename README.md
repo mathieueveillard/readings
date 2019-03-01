@@ -10,6 +10,7 @@ A curated list of readings on computer sciences, and a few more things around re
 ## Learning
 
 - [Bloom's revised taxonomy](https://www.jotform.com/blog/the-learning-myth/)
+- [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
 - [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) ([Dunning-Kruger effect](https://www.google.fr/search?q=dunning+kruger&rlz=1C5CHFA_enFR713FR713&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjLloOfubTaAhUSkRQKHSjuBfQQ_AUICigB&biw=1280&bih=612#imgrc=uWuHSlk7c7EVqM:))
 - [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
