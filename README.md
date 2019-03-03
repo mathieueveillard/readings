@@ -77,6 +77,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Learning how references work in JavaScript](https://medium.com/@naveenkarippai/learning-how-references-work-in-javascript-a066a4e15600)
  
+## Rx
+- [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
+- [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
+
 ## TypeScript
 
 - [Duck typing vs. Nominal (structural) typing](https://en.wikipedia.org/wiki/Nominal_type_system)
