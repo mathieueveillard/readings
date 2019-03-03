@@ -93,6 +93,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ### React
 
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [React Components, Elements, and Instances](https://reactjs.org/blog/2015/12/18/react-components-elements-and-instances.html)
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html)
@@ -123,6 +124,7 @@ A curated list of readings on computer sciences, and a few more things around re
 ### NodeJS
 
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
+- [Everything You Wanted To Know About package-lock.json But Were Too Afraid To Ask](https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
 
 ## Mobile
 
