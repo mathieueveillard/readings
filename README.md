@@ -194,3 +194,4 @@ A curated list of readings on computer sciences, and a few more things around re
 - [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
 - [One Simple Trait That Will Advance Your Software Career](https://medium.com/@toddhd/one-simple-trait-that-will-advance-your-software-career-7a88bd505f59)
+- [Le triomphe des amateurs ?](https://medium.com/switch-collective/le-triomphe-des-amateurs-77d520217ed3)
