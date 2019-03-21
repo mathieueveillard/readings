@@ -9,6 +9,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Learning
 
+- [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Bloom's revised taxonomy](https://www.jotform.com/blog/the-learning-myth/)
 - [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
 - [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) ([Dunning-Kruger effect](https://www.google.fr/search?q=dunning+kruger&rlz=1C5CHFA_enFR713FR713&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjLloOfubTaAhUSkRQKHSjuBfQQ_AUICigB&biw=1280&bih=612#imgrc=uWuHSlk7c7EVqM:))
@@ -76,8 +77,9 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Here’s Why Mapping a Constructed Array in JavaScript Doesn’t Work](https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Learning how references work in JavaScript](https://medium.com/@naveenkarippai/learning-how-references-work-in-javascript-a066a4e15600)
- 
+
 ## Rx
+
 - [RxJS](https://rxjs-dev.firebaseapp.com/guide/overview)
 - [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 
@@ -121,9 +123,9 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ### Architectures
 
- - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
- - [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
- - [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
+- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
+- [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
+- [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
 
 ### NodeJS
 
