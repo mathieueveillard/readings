@@ -43,6 +43,7 @@ A curated list of readings on computer sciences, and a few more things around re
 ### Functional Programming (in JavaScript)
 
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
+- [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [Bill Sourour](https://medium.freecodecamp.org/@BillSourour)
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
