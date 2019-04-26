@@ -120,6 +120,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
+### WebAssembly
+- [WebAssembly](https://webassembly.org/)
+- [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
+
 ## Back-end
 
 ### Architectures
