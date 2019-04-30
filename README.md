@@ -116,6 +116,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 - [5 things you can do in CSS-in-JS that you didn’t know about](https://blog.logrocket.com/5-things-you-can-do-in-css-in-js-that-you-didnt-know-about-c422fb67ceb6)
+- [Flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/#justify-content)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
