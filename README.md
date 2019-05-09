@@ -40,6 +40,8 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Paradigms
 
+- [Four Languages from Forty Years Ago - Scott Wlaschin](https://www.youtube.com/watch?v=mRwHZTNGdoY&feature=youtu.be)
+
 ### Functional Programming
 
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
@@ -123,6 +125,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 ### WebAssembly
+
 - [WebAssembly](https://webassembly.org/)
 - [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
