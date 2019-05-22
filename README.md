@@ -126,6 +126,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ### Web Components
 - [Building Components](https://developers.google.com/web/fundamentals/web-components/)
+- [Build Your Next Design System with Web Components](https://blog.ionicframework.com/build-your-next-design-system-with-web-components/)
 
 ### WASM
 
