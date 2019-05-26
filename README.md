@@ -2,6 +2,9 @@
 
 A curated list of readings on computer sciences, and a few more things around related to it.
 
+## General
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
+
 ## People
 
 - [André Staltz](https://staltz.com/blog.html)
