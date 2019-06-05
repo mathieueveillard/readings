@@ -111,6 +111,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [8 no-Flux strategies for React component communication](https://www.javascriptstuff.com/component-communication/)
 - [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html)
 - [How to NOT React: Common Anti-Patterns and Gotchas in React](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
+- [Why Do React Hooks Rely on Call Order?](https://overreacted.io/why-do-hooks-rely-on-call-order/)
 
 ### Redux
 
@@ -205,7 +206,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [The code I’m still ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
 
-## Work
+## Work / Organisation
 
 - [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
@@ -214,3 +215,4 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
 - [One Simple Trait That Will Advance Your Software Career](https://medium.com/@toddhd/one-simple-trait-that-will-advance-your-software-career-7a88bd505f59)
 - [Le triomphe des amateurs ?](https://medium.com/switch-collective/le-triomphe-des-amateurs-77d520217ed3)
+- [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
