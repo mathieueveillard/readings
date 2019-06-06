@@ -31,10 +31,11 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
 
-## Team work
+## Team work, agility
 
 - [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
 - [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
+- [Design Thinking, Lean Startup and Agile: What is the difference?](https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121)
 
 ## Testing, TDD, BDD
 
