@@ -146,6 +146,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
 - [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
+- [Eventual Consistency for Mere Mortals](https://ralfw.de/2019/06/eventual-consistency-for-mere-mortals/)
 
 ### NodeJS
 
