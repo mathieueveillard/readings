@@ -157,6 +157,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
 - [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 
+
+### NPM
+- [How to publish packages to npm (the way the industry does things)](https://zellwk.com/blog/publish-to-npm/)
+
 ## Mobile
 
 - [Mobile Website vs. Mobile App: Which is Best for Your Organization?](https://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/)
