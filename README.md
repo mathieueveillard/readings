@@ -22,13 +22,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [How to Learn a New Programming Language or Framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
 - [Web Developer’s Fatigue](https://medium.com/simply/web-developers-fatigue-90e0e6d40dd5)
 
-## Teaching / Coaching
+## Teaching | Coaching | Giving a talk
 
 - [Mr. Rogers Had a Simple Set of Rules for Talking to Children](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/?utm_medium=offsite&utm_source=medium&utm_campaign=all)
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
-
-## Giving a talk
-
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
 
 ## Team work, agility
@@ -42,6 +39,10 @@ A curated list of readings on computer sciences, and a few more things around re
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+
+## Refactoring
+
+- [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 
 ## Paradigms
 
