@@ -12,6 +12,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Learning
 
+- [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Bloom's revised taxonomy](https://www.jotform.com/blog/the-learning-myth/)
 - [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
