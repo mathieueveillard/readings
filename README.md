@@ -43,6 +43,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Refactoring
 
+- [Code smells](https://refactoring.guru/refactoring/smells)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 
 ## Paradigms
@@ -173,6 +174,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Security
 
+- [CRYPTO101](https://www.crypto101.io/)
 - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
 - [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 - [RESTful Authentication](https://blog.ineat-conseil.fr/2013/01/restful-authentication/)
