@@ -103,6 +103,8 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Front-end
 
+- [Saving the Web, 16ms at a time](https://loving-khorana-77de08.netlify.com/#/0)
+
 ### UX / UI
 
 - [GoodUI](https://goodui.org/)
