@@ -35,8 +35,9 @@ A curated list of readings on computer sciences, and a few more things around re
 - [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
 - [Design Thinking, Lean Startup and Agile: What is the difference?](https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121)
 
-## TDD, BDD, DDD
+## Testing, TDD, BDD, DDD
 
+- [F.I.R.S.T Principles](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing)
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
