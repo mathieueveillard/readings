@@ -12,6 +12,7 @@ A curated list of readings on computer sciences, and a few more things around re
 
 ## Learning
 
+- [Apprendre à apprendre : deux modes d’apprentissage](http://www.internetactu.net/2015/09/08/apprendre-a-apprendre-14-deux-modes-dapprentissage/)
 - [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Bloom's revised taxonomy](https://www.jotform.com/blog/the-learning-myth/)
@@ -136,7 +137,6 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Flexbox cheatsheet](https://yoksel.github.io/flex-cheatsheet/#justify-content)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 ### Web Components
