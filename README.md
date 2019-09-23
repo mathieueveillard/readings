@@ -129,6 +129,8 @@ A curated list of readings on computer sciences, and a few more things around re
 - [FAQ updates](https://github.com/reduxjs/redux/issues/1785)
 - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - [Using the Redux Store Like a Database](https://hackernoon.com/shape-your-redux-store-like-your-database-98faa4754fd5)
+- [Stale Props and "Zombie Children"](https://react-redux.js.org/next/api/hooks#stale-props-and-zombie-children)
+- [Stale props and zombie children in Redux](https://kaihao.dev/posts/Stale-props-and-zombie-children-in-Redux)
 
 ### CSS
 
