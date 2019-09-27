@@ -93,6 +93,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Here’s Why Mapping a Constructed Array in JavaScript Doesn’t Work](https://itnext.io/heres-why-mapping-a-constructed-array-doesn-t-work-in-javascript-f1195138615a)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [Learning how references work in JavaScript](https://medium.com/@naveenkarippai/learning-how-references-work-in-javascript-a066a4e15600)
+- [Use JavaScript Generator Functions to Reduce Memory Utilization](https://levelup.gitconnected.com/how-i-met-your-javascript-generators-reduce-memory-used-on-your-browser-and-server-8ed2c5077d5c)
 
 ## Rx
 
