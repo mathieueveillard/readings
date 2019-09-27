@@ -236,3 +236,4 @@ A curated list of readings on computer sciences, and a few more things around re
 - [One Simple Trait That Will Advance Your Software Career](https://medium.com/@toddhd/one-simple-trait-that-will-advance-your-software-career-7a88bd505f59)
 - [Le triomphe des amateurs ?](https://medium.com/switch-collective/le-triomphe-des-amateurs-77d520217ed3)
 - [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
+- [How To Build a Minimum Viable Product Without Any Code](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-without-any-code-606543452c85)
