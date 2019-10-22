@@ -166,6 +166,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Everything You Wanted To Know About package-lock.json But Were Too Afraid To Ask](https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
 - [Understanding Node.js Event-Driven Architecture](https://medium.freecodecamp.org/understanding-node-js-event-driven-architecture-223292fcbc2d)
 - [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
+- [Handling Asynchronous Operations in Parallel in Node.js](https://itnext.io/node-js-handling-asynchronous-operations-in-parallel-69679dfae3fc)
 
 
 ### NPM
