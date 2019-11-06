@@ -116,6 +116,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [8 Reasons Why Pageless Design is the Future of the Web](https://www.dtelepathy.com/blog/design/8-reasons-why-pageless-design-is-the-future-of-the-web)
 - [Better Web Type](https://betterwebtype.com/)
 - [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
+- [A Dive into Responsive Web Design](https://medium.com/matts-lambda-minutes/matts-lambda-minute-a-dive-into-responsive-web-design-692357cd1ff6)
 
 ### React
 
