@@ -111,6 +111,7 @@ A curated list of readings on computer sciences, and a few more things around re
 ### UX / UI
 
 - [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications)
+- [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 - [GoodUI](https://goodui.org/)
 - [50 Things You [Probably] Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 - [8 Reasons Why Pageless Design is the Future of the Web](https://www.dtelepathy.com/blog/design/8-reasons-why-pageless-design-is-the-future-of-the-web)
