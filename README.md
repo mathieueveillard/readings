@@ -42,6 +42,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
 - [Preemptive commit comments](https://arialdomartini.wordpress.com/2012/09/03/pre-emptive-commit-comments/)
 
 ## Refactoring
