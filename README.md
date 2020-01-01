@@ -120,6 +120,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Better Web Type](https://betterwebtype.com/)
 - [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
 - [A Dive into Responsive Web Design](https://medium.com/matts-lambda-minutes/matts-lambda-minute-a-dive-into-responsive-web-design-692357cd1ff6)
+- [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)
 
 ### React
 
