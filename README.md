@@ -3,6 +3,7 @@
 A curated list of readings on computer sciences, and a few more things around related to it.
 
 ## General
+
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)
 
 ## People
@@ -109,18 +110,22 @@ A curated list of readings on computer sciences, and a few more things around re
 
 - [Saving the Web, 16ms at a time](https://loving-khorana-77de08.netlify.com/#/0)
 
-### UX / UI
+### UX
 
 - [The 4 Goals of a Product Manager — Acquisition, Activation, Retention, and Monetization](https://medium.com/@rakeshkumar_64243/the-4-goals-of-a-product-manager-acquisition-activation-retention-and-monetization-2c9dcdedd71c)
+- [How to Conduct User Research Effectively](https://medium.com/swlh/how-to-conduct-user-research-effectively-b7e0293f3b7a)
 - [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 - [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications)
-- [GoodUI](https://goodui.org/)
 - [50 Things You [Probably] Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
 - [8 Reasons Why Pageless Design is the Future of the Web](https://www.dtelepathy.com/blog/design/8-reasons-why-pageless-design-is-the-future-of-the-web)
-- [Better Web Type](https://betterwebtype.com/)
-- [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
 - [A Dive into Responsive Web Design](https://medium.com/matts-lambda-minutes/matts-lambda-minute-a-dive-into-responsive-web-design-692357cd1ff6)
 - [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)
+- [GoodUI](https://goodui.org/)
+
+### UI
+
+- [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
+- [Better Web Type](https://betterwebtype.com/)
 
 ### React
 
@@ -150,6 +155,7 @@ A curated list of readings on computer sciences, and a few more things around re
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
 
 ### Web Components
+
 - [Building Components](https://developers.google.com/web/fundamentals/web-components/)
 - [Build Your Next Design System with Web Components](https://blog.ionicframework.com/build-your-next-design-system-with-web-components/)
 
@@ -177,8 +183,8 @@ A curated list of readings on computer sciences, and a few more things around re
 - [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 - [Handling Asynchronous Operations in Parallel in Node.js](https://itnext.io/node-js-handling-asynchronous-operations-in-parallel-69679dfae3fc)
 
-
 ### NPM
+
 - [How to publish packages to npm (the way the industry does things)](https://zellwk.com/blog/publish-to-npm/)
 
 ## Mobile
