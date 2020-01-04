@@ -31,12 +31,14 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Back-end](#back-end)
   - [Architectures](#architectures)
   - [NodeJS](#nodejs)
+  - [Databases](#databases)
 - [Mobile](#mobile)
 - [Security](#security)
+- [Production](#production)
 - [Trends](#trends)
   - [Web Components](#web-components)
   - [WASM](#wasm)
-  - [IA](#ia)
+  - [AI](#ai)
   - [Blockchain](#blockchain)
   - [Mesh networks](#mesh-networks)
 - [Influencers](#influencers)
@@ -98,6 +100,8 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Craft
 
+- [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
+- [Les principes SOLID dans la vie de tous les jours](https://www.arolla.fr/blog/2017/02/principes-solid-vie-de-jours/)
 - [F.I.R.S.T Principles](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing)
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
@@ -214,6 +218,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
+- [Microservices – Les concepts](https://blog.xebia.fr/2015/03/02/microservices-les-concepts/)
 - [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
 - [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 - [Eventual Consistency for Mere Mortals](https://ralfw.de/2019/06/eventual-consistency-for-mere-mortals/)
@@ -225,15 +230,24 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Node.js Streams: Everything you need to know](https://medium.freecodecamp.org/node-js-streams-everything-you-need-to-know-c9141306be93)
 - [How to publish packages to npm (the way the industry does things)](https://zellwk.com/blog/publish-to-npm/)
 
+#### Databases
+- [SQL joins](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
+
+
 ### Mobile
 
 - [Mobile Website vs. Mobile App: Which is Best for Your Organization?](https://www.hswsolutions.com/services/mobile-web-development/mobile-website-vs-apps/)
+- [Progressive Web Apps - The New Word In User Engagement](https://clockwise.software/blog/progressive-web-apps-the-new-word-in-user-engagement/)
 
 ### Security
 
 - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
 - [CRYPTO101](https://www.crypto101.io/)
 - [The Da Vinci Zero Knowledge Proof](https://medium.com/swlh/the-da-vinci-zero-knowledge-proof-d6271363382b)
+
+### Production
+
+- [The twelve-factor app](https://12factor.net/)
 
 ### Trends
 
@@ -247,7 +261,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [WebAssembly](https://webassembly.org/)
 - [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
-#### IA
+#### AI
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
@@ -255,6 +269,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 - [Why AlphaGo is not AI](http://parisinnovationreview.com/articles-en/why-alphago-is-not-ai)
 - [Artificial Intelligence Pioneer Says We Need to Start Over](https://cacm.acm.org/news/221108-artificial-intelligence-pioneer-says-we-need-to-start-over/fulltext#.WtdqedeT8_w.twitter)
+- [https://www.youtube.com/watch?v=BtAVBeLuigI](https://www.youtube.com/watch?v=BtAVBeLuigI)
 
 #### Blockchain
 
