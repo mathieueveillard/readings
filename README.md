@@ -284,8 +284,9 @@ A curated list of readings on computer sciences, and a few more things related t
 ### Influencers
 
 - [Martin Fowler](https://martinfowler.com/)
-- [André Staltz](https://staltz.com/blog.html)
 - [Scott Wlaschin](https://fsharpforfunandprofit.com/)
+- [André Staltz](https://staltz.com/blog.html)
+- [Dan Abramov](https://overreacted.io/)
 
 ### Misc.
 
