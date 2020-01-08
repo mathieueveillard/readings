@@ -97,6 +97,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Agility
 
+- [L’agilité ou l’éloge de la confiance](https://medium.com/@mathieueveillard/lagilit%C3%A9-ou-l-%C3%A9loge-de-la-confiance-9a4ae5e0604e)
 - [Design Thinking, Lean Startup and Agile: What is the difference?](https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121)
 - [How To Build a Minimum Viable Product Without Any Code](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-without-any-code-606543452c85)
 
