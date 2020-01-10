@@ -63,6 +63,7 @@ A curated list of readings on computer sciences, and a few more things related t
 ### Giving a talk
 
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
+- [Clément Viktorovitch](https://www.youtube.com/watch?v=RVb_KSoagwI&feature=youtu.be)
 
 ## Making a living
 
