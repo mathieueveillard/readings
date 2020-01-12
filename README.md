@@ -102,6 +102,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [The Most Important Rule in UX Design that Everyone Breaks](https://blog.prototypr.io/the-most-important-rule-in-ux-design-that-everyone-breaks-1c1cb188931)
 - [A Dive into Responsive Web Design](https://medium.com/matts-lambda-minutes/matts-lambda-minute-a-dive-into-responsive-web-design-692357cd1ff6)
 - [8 Reasons Why Pageless Design is the Future of the Web](https://www.dtelepathy.com/blog/design/8-reasons-why-pageless-design-is-the-future-of-the-web)
+- [22 rules for designing sign up & sign in journeys](https://uxdesign.cc/22-rules-for-user-sign-up-sign-in-journeys-e0e863cba40a)
 
 ### Teams, Work & Organizations
 
