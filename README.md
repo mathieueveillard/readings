@@ -107,6 +107,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Teams, Work & Organizations
 
+- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
 - [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
