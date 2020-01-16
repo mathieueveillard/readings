@@ -53,7 +53,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
 - [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
-- [Bloom's revised taxonomy](https://www.jotform.com/blog/the-learning-myth/)
+- [Bloom's revised taxonomy](https://www.coloradocollege.edu/other/assessment/how-to-assess-learning/learning-outcomes/blooms-revised-taxonomy.html)
 - [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
 - [Dunning-Kruger effect](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 - [Apprendre à apprendre : deux modes d’apprentissage](http://www.internetactu.net/2015/09/08/apprendre-a-apprendre-14-deux-modes-dapprentissage/)
