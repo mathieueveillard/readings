@@ -216,6 +216,7 @@ A curated list of readings on computer sciences, and a few more things related t
 ### CSS
 
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
+- [Bonnes pratiques en CSS : BEM et OOCSS](https://www.alsacreations.com/article/lire/1641-Bonnes-pratiques-en-CSS--BEM-et-OOCSS.html)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
