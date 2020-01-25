@@ -163,6 +163,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Object Oriented Programming
 
+- [Refactoring Gutu](https://refactoring.guru/)
 - [Severin Perez](https://medium.com/@severinperez)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
