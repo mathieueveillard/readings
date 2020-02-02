@@ -77,6 +77,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Stories from 300 developers who got their first tech job in their 30s, 40s, and 50s](https://medium.freecodecamp.org/stories-from-300-developers-who-got-their-first-tech-job-in-their-30s-40s-and-50s-64306eb6bb27)
 - [Work in the 2020s: 5 essential skills to succeed](https://www.ft.com/content/74d3c16a-1f35-11ea-92da-f0c92e957a96)
 - [My Decade in Review](https://overreacted.io/my-decade-in-review/)
+- [Why Millennials Quit: A Letter To Incompetent Leaders](https://medium.com/swlh/why-millennials-quit-a-letter-to-incompetent-leaders-65ef778611eb)
 
 ### Interviews
 
