@@ -70,6 +70,7 @@ A curated list of readings on computer sciences, and a few more things related t
 ## Ethics
 
 - [The code I’m still ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
+- [Internet, une bombe écologique à retardement](https://www.gqmagazine.fr/pop-culture/article/internet-une-bombe-ecologique-a-retardement)
 
 ### Career path
 
