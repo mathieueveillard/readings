@@ -10,6 +10,7 @@
 - https://jubianchi.github.io/semver-check/#/
 - https://www.excalidraw.com/
 - https://revealjs.com/#/ (slides)
+- https://www.iloveimg.com/ (meme generator)
 - https://runkit.com/ (NodeJS koans)
 - https://stackblitz.com/ (sandbox)
 - https://mailchimp.com/ (emailing)
