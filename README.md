@@ -136,6 +136,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
 - [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+- [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
 - [Code smells](https://refactoring.guru/refactoring/smells)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 
