@@ -116,6 +116,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
 - [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
+- [How to do effective video calls](https://martinfowler.com/articles/effective-video-calls.html)
 - [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
