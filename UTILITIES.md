@@ -18,4 +18,4 @@
 - https://stripe.com/ (online payment)
 - https://www.hotjar.com/ (heatmaps)
 - https://app.moqups.com/ (wireframes)
-- https://miro.com/ (online whiteboard)
+- https://excalidraw.com/ (online whiteboard)
