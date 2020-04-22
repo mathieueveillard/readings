@@ -315,3 +315,4 @@ A curated list of readings on computer sciences, and a few more things related t
 ## Misc.
 
 - [Programmation dynamique](https://fr.wikipedia.org/wiki/Programmation_dynamique)
+- [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
