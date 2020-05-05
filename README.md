@@ -164,8 +164,8 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Functional Programming
 
+- [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
-- [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 - [F# for fun and profit](https://fsharpforfunandprofit.com/)
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
