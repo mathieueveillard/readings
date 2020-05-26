@@ -146,6 +146,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ## Debugging
 
+- [5 Steps to Mistake Proof Software Design](https://mozaicworks.com/blog/5-steps-to-mistake-proof-software-design)
 - [10 Tips to gain Mastery at Fixing Bugs](https://michaelscodingspot.com/2018/03/22/10-tips-gain-mastery-fixing-bugs/)
 - [5 Secret features of JSON.stringify()](https://medium.com/javascript-in-plain-english/5-secret-features-of-json-stringify-c699340f9f27)
 - [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
