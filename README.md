@@ -143,6 +143,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
 - [Code smells](https://refactoring.guru/refactoring/smells)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
+- [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
 
 ## Debugging
 
