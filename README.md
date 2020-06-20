@@ -12,6 +12,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Meta](#meta)
   - [Design Thinking, Lean Startup, Agile](#design-thinking-lean-startup-agile)
   - [Product Management / UX](#product-management--ux)
+  - [UI](#ui)
   - [Teams, Work & Organizations](#teams-work--organizations)
   - [Open Source](#open-source)
   - [Craft](#craft)
@@ -108,6 +109,10 @@ A curated list of readings on computer sciences, and a few more things related t
 - [A Dive into Responsive Web Design](https://medium.com/matts-lambda-minutes/matts-lambda-minute-a-dive-into-responsive-web-design-692357cd1ff6)
 - [8 Reasons Why Pageless Design is the Future of the Web](https://www.dtelepathy.com/blog/design/8-reasons-why-pageless-design-is-the-future-of-the-web)
 - [22 rules for designing sign up & sign in journeys](https://uxdesign.cc/22-rules-for-user-sign-up-sign-in-journeys-e0e863cba40a)
+
+### UI
+
+- [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 
 ### Teams, Work & Organizations
 
