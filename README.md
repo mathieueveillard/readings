@@ -149,6 +149,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Code smells](https://refactoring.guru/refactoring/smells)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 - [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
+- [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
 
 ## Debugging
 
