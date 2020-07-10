@@ -101,6 +101,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Product management needs full-triangle builders](https://uxdesign.cc/product-management-needs-full-triangle-builders-618ac3981503)
 - [The 4 Goals of a Product Manager — Acquisition, Activation, Retention, and Monetization](https://medium.com/@rakeshkumar_64243/the-4-goals-of-a-product-manager-acquisition-activation-retention-and-monetization-2c9dcdedd71c)
 - [How to Conduct User Research Effectively](https://medium.com/swlh/how-to-conduct-user-research-effectively-b7e0293f3b7a)
+- [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
 - [7 Principles of Rich Web Applications](https://rauchg.com/2014/7-principles-of-rich-web-applications)
 - [50 Things You [Probably] Forgot To Design](https://medium.com/ux-power-tools/50-things-you-probably-forgot-to-design-7a288b0ef914)
