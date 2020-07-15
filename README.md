@@ -267,6 +267,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Eventual Consistency for Mere Mortals](https://ralfw.de/2019/06/eventual-consistency-for-mere-mortals/)
 - [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
 - [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
+- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 
 ### NodeJS
 
