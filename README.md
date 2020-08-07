@@ -150,6 +150,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
 - [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Code smells](https://refactoring.guru/refactoring/smells)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 - [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
