@@ -138,23 +138,40 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Craft
 
+#### Clean Code
+
 - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Les principes SOLID dans la vie de tous les jours](https://www.arolla.fr/blog/2017/02/principes-solid-vie-de-jours/)
+- [Code smells](https://refactoring.guru/refactoring/smells)
+
+#### Testing
+
 - [F.I.R.S.T Principles](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing)
-- [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+- [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
 - [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
-- [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
+
+#### TDD
+
+- [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Professionalism and TDD](https://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html)
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
-- [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
-- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
-- [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+- [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
+
+#### BDD
+
+#### DDD
+
 - [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
+- [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
+- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
+- [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
-- [Code smells](https://refactoring.guru/refactoring/smells)
+
+#### Refactoring
+
+- [Man versus Legacy : Gilded Rose](https://www.arolla.fr/blog/2019/10/man-vs-legacy-gilded-rose-1/)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 - [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
-- [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
 
 ## Debugging
 
