@@ -146,9 +146,10 @@ A curated list of readings on computer sciences, and a few more things related t
 
 #### Testing
 
-- [F.I.R.S.T Principles](https://github.com/ghsukumar/SFDC_Best_Practices/wiki/F.I.R.S.T-Principles-of-Unit-Testing)
+- [FIRST Principles for Writing Good Unit Tests](https://howtodoinjava.com/best-practices/first-principles-for-good-tests/)
 - [Unit testing, you’re doing it wrong](https://medium.com/@Cyrdup/unit-testing-youre-doing-it-wrong-407a07692989)
-- [Choosing properties for property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing-2/)
+- [An introduction to property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing/)
+- [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 
 #### TDD
 
