@@ -138,6 +138,10 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Craft
 
+#### Architecture
+
+- [Architectural Katas](https://archkatas.herokuapp.com/)
+
 #### Clean Code
 
 - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
@@ -202,7 +206,8 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Object Oriented Programming
 
-- [Refactoring Guru](https://refactoring.guru/)
+- [Design Patterns (Refactoring Guru)](https://refactoring.guru/)
+- [Design Patterns (TutorialsPoint)](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
 - [Severin Perez](https://medium.com/@severinperez)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
 
