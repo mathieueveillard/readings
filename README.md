@@ -141,6 +141,7 @@ A curated list of readings on computer sciences, and a few more things related t
 #### Architecture
 
 - [Architectural Katas](https://archkatas.herokuapp.com/)
+- [Patterns for micro frontends](https://www.youtube.com/watch?v=A3n1n5QRmF0&ab_channel=code.talks%28ehem.DeveloperConference%29)
 
 #### Clean Code
 
