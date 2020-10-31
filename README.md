@@ -129,6 +129,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 - [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
+- [Don’t solve problems if you want to be a great manager](https://medium.com/know-your-team-blog/dont-solve-problems-if-you-want-to-be-a-great-manager-ff85ae708473)
 
 ### Open Source
 
@@ -310,6 +311,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ## Security
 
+- [Les 10 erreurs de cybersécurité des startups technologiques](https://www.maddyness.com/2020/08/31/10-erreurs-cybersecurite-startups/)
 - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
 - [CRYPTO101](https://www.crypto101.io/)
 - [The Da Vinci Zero Knowledge Proof](https://medium.com/swlh/the-da-vinci-zero-knowledge-proof-d6271363382b)
