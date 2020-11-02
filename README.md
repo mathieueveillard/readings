@@ -2,51 +2,6 @@
 
 A curated list of readings on computer sciences, and a few more things related to it.
 
-- [Learning / Teaching](#learning--teaching)
-  - [Learning](#learning)
-  - [Giving a talk](#giving-a-talk)
-- [Making a living](#making-a-living)
-  - [Ethics](#ethics)
-  - [Career path](#career-path)
-  - [Interviews](#interviews)
-- [Meta](#meta)
-  - [Design Thinking, Lean Startup, Agile](#design-thinking-lean-startup-agile)
-  - [Product Management / UX](#product-management--ux)
-  - [UI](#ui)
-  - [Teams, Work & Organizations](#teams-work--organizations)
-  - [Open Source](#open-source)
-  - [Craft](#craft)
-- [Debugging](#debugging)
-- [Versioning](#versioning)
-- [Paradigms](#paradigms)
-  - [Functional Programming](#functional-programming)
-  - [Object Oriented Programming](#object-oriented-programming)
-- [Languages](#languages)
-  - [JavaScript](#javascript)
-  - [Rx](#rx)
-  - [Shell](#shell)
-- [Front-end](#front-end)
-  - [React](#react)
-  - [Redux](#redux)
-  - [Performances](#performances)
-  - [CSS](#css)
-  - [UI](#ui)
-- [Mobile](#mobile)
-- [Back-end](#back-end)
-  - [Hexagonal Architecture, microservices, event sourcing, CQRS](#hexagonal-architecture-microservices-event-sourcing-cqrs)
-  - [NodeJS](#nodejs)
-  - [Databases](#databases)
-- [DevOps](#devops)
-- [Security](#security)
-- [Trends](#trends)
-  - [Web Components](#web-components)
-  - [WASM](#wasm)
-  - [AI](#ai)
-  - [Blockchain](#blockchain)
-  - [Mesh networks](#mesh-networks)
-- [Influencers](#influencers)
-- [Misc.](#misc)
-
 ## Learning / Teaching
 
 ### Learning
@@ -96,7 +51,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [L’agilité ou l’éloge de la confiance](https://medium.com/@mathieueveillard/lagilit%C3%A9-ou-l-%C3%A9loge-de-la-confiance-9a4ae5e0604e)
 - [Rethinking Agile](https://leanpub.com/rethinking-agile-pdf)
 
-### Product Management / UX
+### UX Design / Product Management
 
 - [Patterns In Interaction Design](http://www.welie.com/patterns/index.php)
 - [Product management needs full-triangle builders](https://uxdesign.cc/product-management-needs-full-triangle-builders-618ac3981503)
@@ -113,10 +68,14 @@ A curated list of readings on computer sciences, and a few more things related t
 - [22 rules for designing sign up & sign in journeys](https://uxdesign.cc/22-rules-for-user-sign-up-sign-in-journeys-e0e863cba40a)
 - [An exploration of visual indicators IRL](https://uxdesign.cc/visual-indicators-c3e0e5ce90f7)
 - [Update vs Modify vs Change - Create vs Add - Delete vs Remove](https://ux.stackexchange.com/questions/43174/update-vs-modify-vs-change-create-vs-add-delete-vs-remove)
+- [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
+- [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
 
 ### UI
 
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
+- [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
+- [Better Web Type](https://betterwebtype.com/)
 
 ### Teams, Work & Organizations
 
@@ -270,11 +229,6 @@ A curated list of readings on computer sciences, and a few more things related t
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
-
-### UI
-
-- [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
-- [Better Web Type](https://betterwebtype.com/)
 
 ## Mobile
 
