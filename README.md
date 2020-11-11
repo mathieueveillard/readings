@@ -307,6 +307,10 @@ A curated list of readings on computer sciences, and a few more things related t
 - [André Staltz](https://staltz.com/blog.html)
 - [Dan Abramov](https://overreacted.io/)
 
+## Business
+
+- [Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)
+
 ## Misc.
 
 - [Programmation dynamique](https://fr.wikipedia.org/wiki/Programmation_dynamique)
