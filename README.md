@@ -248,6 +248,12 @@ A curated list of readings on computer sciences, and a few more things related t
 - [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
 - [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 
+### API design
+
+- [Stratégie d’architecture API](https://blog.octo.com/strategie-d-architecture-api/)
+- [Designer une API REST](https://blog.octo.com/designer-une-api-rest/)
+- [API design tips for libraries](https://staltz.com/api-design-tips-for-libraries.html)
+
 ### NodeJS
 
 - [The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
@@ -311,7 +317,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 - [Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)
 
-## Misc.
+## Misc
 
 - [Programmation dynamique](https://fr.wikipedia.org/wiki/Programmation_dynamique)
 - [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
