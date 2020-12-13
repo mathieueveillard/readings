@@ -264,6 +264,7 @@ A curated list of readings on computer sciences, and a few more things related t
 ### Databases
 
 - [SQL joins](http://www.codeproject.com/KB/database/Visual_SQL_Joins/Visual_SQL_JOINS_orig.jpg)
+- [The Main NoSQL Database Types](https://studio3t.com/knowledge-base/articles/nosql-database-types/)
 
 ## DevOps
 
