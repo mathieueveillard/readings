@@ -1,6 +1,5 @@
 # Utilities
 
-- https://devdocs.io/
 - https://fonts.google.com/
 - https://htmlcolorcodes.com/fr/tableau-de-couleur/
 - https://fr.lipsum.com/
@@ -8,7 +7,9 @@
 - https://www.epochconverter.com/
 - https://www.uuidgenerator.net/
 - https://jubianchi.github.io/semver-check/#/
-- https://www.excalidraw.com/
+- https://bitly.com/ (URL shortener)
+- https://unsplash.com/ (photostock)
+- https://www.excalidraw.com/ (whiteboard)
 - https://revealjs.com/#/ (slides)
 - https://www.iloveimg.com/ (meme generator)
 - https://runkit.com/ (NodeJS koans)

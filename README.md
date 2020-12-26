@@ -2,12 +2,11 @@
 
 A curated list of readings on computer sciences, and a few more things related to it.
 
+See also our curated list of [utilities](./UTILITIES.md).
+
 ## Learning / Teaching
 
-### Learning
-
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
-- [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
 - [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
 - [Bloom's revised taxonomy](https://www.coloradocollege.edu/other/assessment/how-to-assess-learning/learning-outcomes/blooms-revised-taxonomy.html)
 - [The Doctor And The Scalpel](https://hackernoon.com/the-doctor-and-the-scalpel-78656f508c9a)
@@ -15,43 +14,48 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Apprendre à apprendre : deux modes d’apprentissage](http://www.internetactu.net/2015/09/08/apprendre-a-apprendre-14-deux-modes-dapprentissage/)
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [How to Learn a New Programming Language or Framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
+- [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
 
-### Giving a talk
+## Giving a talk
 
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
 - [Clément Viktorovitch](https://www.youtube.com/watch?v=RVb_KSoagwI&feature=youtu.be)
 
-## Making a living
+## Business, career path, ethics
 
-## Ethics
-
+- [Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)
 - [The code I’m still ashamed of](https://medium.freecodecamp.org/the-code-im-still-ashamed-of-e4c021dff55e)
-- [Internet, une bombe écologique à retardement](https://www.gqmagazine.fr/pop-culture/article/internet-une-bombe-ecologique-a-retardement)
-
-### Career path
-
 - [Le triomphe des amateurs ?](https://medium.com/switch-collective/le-triomphe-des-amateurs-77d520217ed3)
 - [Stories from 300 developers who got their first tech job in their 30s, 40s, and 50s](https://medium.freecodecamp.org/stories-from-300-developers-who-got-their-first-tech-job-in-their-30s-40s-and-50s-64306eb6bb27)
 - [Work in the 2020s: 5 essential skills to succeed](https://www.ft.com/content/74d3c16a-1f35-11ea-92da-f0c92e957a96)
 - [My Decade in Review](https://overreacted.io/my-decade-in-review/)
 - [Why Millennials Quit: A Letter To Incompetent Leaders](https://medium.com/swlh/why-millennials-quit-a-letter-to-incompetent-leaders-65ef778611eb)
-
-### Interviews
-
 - [How to write a great developer résumé and showcase your software engineering skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 
-## Meta
+## Teams, Work & Organizations
 
-### Design Thinking, Lean Startup, Agile
+- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+- [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
+- [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
+- [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
+- [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
+- [How to do effective video calls](https://martinfowler.com/articles/effective-video-calls.html)
+- [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
+- [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
+- [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
+- [Don’t solve problems if you want to be a great manager](https://medium.com/know-your-team-blog/dont-solve-problems-if-you-want-to-be-a-great-manager-ff85ae708473)
+
+## Design Thinking, Lean Startup, Agile
 
 - [Don’t Start With an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
 - [Design Thinking, Lean Startup and Agile: What is the difference?](https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121)
 - [How To Build a Minimum Viable Product Without Any Code](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-without-any-code-606543452c85)
 - [L’agilité ou l’éloge de la confiance](https://medium.com/@mathieueveillard/lagilit%C3%A9-ou-l-%C3%A9loge-de-la-confiance-9a4ae5e0604e)
 - [Rethinking Agile](https://leanpub.com/rethinking-agile-pdf)
+- [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
 
-### UX Design / Product Management
+## UX Design / Product Management
 
 - [Patterns In Interaction Design](http://www.welie.com/patterns/index.php)
 - [Product management needs full-triangle builders](https://uxdesign.cc/product-management-needs-full-triangle-builders-618ac3981503)
@@ -71,60 +75,41 @@ A curated list of readings on computer sciences, and a few more things related t
 - [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
 - [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
 
-### UI
+## UI
 
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
 - [Better Web Type](https://betterwebtype.com/)
 
-### Teams, Work & Organizations
+## Craft
 
-- [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
-- [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
-- [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
-- [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
-- [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
-- [How to do effective video calls](https://martinfowler.com/articles/effective-video-calls.html)
-- [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
-- [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
-- [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
-- [Don’t solve problems if you want to be a great manager](https://medium.com/know-your-team-blog/dont-solve-problems-if-you-want-to-be-a-great-manager-ff85ae708473)
-
-### Open Source
-
-- [5 ways open source software companies make money](https://blog.timescale.com/how-open-source-software-makes-money-time-series-database-f3e4be409467)
-- [Choose an open source license](https://choosealicense.com/)
-- [Open source without maintainers](https://staltz.com/open-source-without-maintainers.html)
-
-### Craft
-
-#### Architecture
-
-- [Architectural Katas](https://archkatas.herokuapp.com/)
-- [Patterns for micro frontends](https://www.youtube.com/watch?v=A3n1n5QRmF0&ab_channel=code.talks%28ehem.DeveloperConference%29)
-
-#### Clean Code
+### Clean Code
 
 - [Object Calisthenics](https://williamdurand.fr/2013/06/03/object-calisthenics/)
 - [Les principes SOLID dans la vie de tous les jours](https://www.arolla.fr/blog/2017/02/principes-solid-vie-de-jours/)
 - [Code smells](https://refactoring.guru/refactoring/smells)
 
-#### Testing
+### Testing
 
 - [FIRST Principles for Writing Good Unit Tests](https://howtodoinjava.com/best-practices/first-principles-for-good-tests/)
 - [An introduction to property-based testing](https://fsharpforfunandprofit.com/posts/property-based-testing/)
 - [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
 
-#### TDD
+### Debugging
+
+- [5 Steps to Mistake Proof Software Design](https://mozaicworks.com/blog/5-steps-to-mistake-proof-software-design)
+- [10 Tips to gain Mastery at Fixing Bugs](https://michaelscodingspot.com/2018/03/22/10-tips-gain-mastery-fixing-bugs/)
+- [5 Secret features of JSON.stringify()](https://medium.com/javascript-in-plain-english/5-secret-features-of-json-stringify-c699340f9f27)
+- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+
+### TDD
 
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Professionalism and TDD](https://blog.cleancoder.com/uncle-bob/2014/05/02/ProfessionalismAndTDD.html)
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 - [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
 
-#### BDD
-
-#### DDD
+### DDD
 
 - [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
 - [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
@@ -132,26 +117,11 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 
-#### Refactoring
+### Refactoring
 
 - [Man versus Legacy : Gilded Rose](https://www.arolla.fr/blog/2019/10/man-vs-legacy-gilded-rose-1/)
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 - [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
-
-## Debugging
-
-- [5 Steps to Mistake Proof Software Design](https://mozaicworks.com/blog/5-steps-to-mistake-proof-software-design)
-- [10 Tips to gain Mastery at Fixing Bugs](https://michaelscodingspot.com/2018/03/22/10-tips-gain-mastery-fixing-bugs/)
-- [5 Secret features of JSON.stringify()](https://medium.com/javascript-in-plain-english/5-secret-features-of-json-stringify-c699340f9f27)
-- [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
-
-## Versioning
-
-- [Semantic Versioning](https://semver.org/)
-- [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
-- [Become a git guru](https://www.atlassian.com/git/tutorials)
-- [FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
-- [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
 ## Paradigms
 
@@ -174,7 +144,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ## Languages
 
-- [Languages cheat sheet](https://makeawebsitehub.com/which-programming-language/)
+[Languages cheat sheet](https://makeawebsitehub.com/which-programming-language/)
 
 ### JavaScript
 
@@ -189,15 +159,6 @@ A curated list of readings on computer sciences, and a few more things related t
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [6 Amazing JavaScript Destructuring Tricks](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
 - [https://javascript.info/](https://javascript.info/)
-
-### Rx
-
-- [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
-
-### Shell
-
-- [Shell Scripting Tutorial](https://www.shellscript.sh/)
-- [Taming The Terminal](https://www.bartbusschots.ie/s/2013/04/13/taming-the-terminal-part-1-of-n/)
 
 ## Front-end
 
@@ -215,13 +176,6 @@ A curated list of readings on computer sciences, and a few more things related t
 - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
 - [Using the Redux Store Like a Database](https://hackernoon.com/shape-your-redux-store-like-your-database-98faa4754fd5)
 
-### Performances
-
-- [The cost of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
-- [Saving the Web, 16ms at a time](https://loving-khorana-77de08.netlify.com/#/0)
-- [Use JavaScript Generator Functions to Reduce Memory Utilization](https://levelup.gitconnected.com/how-i-met-your-javascript-generators-reduce-memory-used-on-your-browser-and-server-8ed2c5077d5c)
-- [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html)
-
 ### CSS
 
 - [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
@@ -230,6 +184,17 @@ A curated list of readings on computer sciences, and a few more things related t
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [What No One Told You About Z-Index](https://philipwalton.com/articles/what-no-one-told-you-about-z-index/)
+
+### Micro Front-End
+
+- [Patterns for micro frontends](https://www.youtube.com/watch?v=A3n1n5QRmF0&ab_channel=code.talks%28ehem.DeveloperConference%29)
+
+### Performances
+
+- [The cost of JavaScript](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
+- [Saving the Web, 16ms at a time](https://loving-khorana-77de08.netlify.com/#/0)
+- [Use JavaScript Generator Functions to Reduce Memory Utilization](https://levelup.gitconnected.com/how-i-met-your-javascript-generators-reduce-memory-used-on-your-browser-and-server-8ed2c5077d5c)
+- [React is Slow, React is Fast: Optimizing React Apps in Practice](https://marmelab.com/blog/2017/02/06/react-is-slow-react-is-fast.html)
 
 ## Mobile
 
@@ -240,6 +205,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Hexagonal Architecture, microservices, event sourcing, CQRS
 
+- [Architectural Katas](https://archkatas.herokuapp.com/)
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
 - [Microservices – Les concepts](https://blog.xebia.fr/2015/03/02/microservices-les-concepts/)
@@ -278,6 +244,14 @@ A curated list of readings on computer sciences, and a few more things related t
 - [CRYPTO101](https://www.crypto101.io/)
 - [The Da Vinci Zero Knowledge Proof](https://medium.com/swlh/the-da-vinci-zero-knowledge-proof-d6271363382b)
 
+## Versioning
+
+- [Semantic Versioning](https://semver.org/)
+- [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
+- [Become a git guru](https://www.atlassian.com/git/tutorials)
+- [FeatureBranch](https://martinfowler.com/bliki/FeatureBranch.html)
+- [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
+
 ## Trends
 
 ### Web Components
@@ -290,16 +264,6 @@ A curated list of readings on computer sciences, and a few more things related t
 - [WebAssembly](https://webassembly.org/)
 - [Programming using Web Assembly](https://medium.com/@alexc73/programming-using-web-assembly-c4c73a4e09a9)
 
-### AI
-
-- [Machine Learning](https://www.coursera.org/learn/machine-learning)
-- [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
-- [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
-- [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
-- [Why AlphaGo is not AI](http://parisinnovationreview.com/articles-en/why-alphago-is-not-ai)
-- [Artificial Intelligence Pioneer Says We Need to Start Over](https://cacm.acm.org/news/221108-artificial-intelligence-pioneer-says-we-need-to-start-over/fulltext#.WtdqedeT8_w.twitter)
-- [https://www.youtube.com/watch?v=BtAVBeLuigI](https://www.youtube.com/watch?v=BtAVBeLuigI)
-
 ### Blockchain
 
 - [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
@@ -308,18 +272,22 @@ A curated list of readings on computer sciences, and a few more things related t
 
 - [The web is dying, but mesh networks could save it](https://thenextweb.com/syndication/2018/01/02/web-dying-mesh-networks-will-save/)
 
-## Influencers
+### AI
 
-- [Martin Fowler](https://martinfowler.com/)
-- [Scott Wlaschin](https://fsharpforfunandprofit.com/)
-- [André Staltz](https://staltz.com/blog.html)
-- [Dan Abramov](https://overreacted.io/)
-
-## Business
-
-- [Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+- [Using Machine Learning to Improve Streaming Quality at Netflix](https://medium.com/netflix-techblog/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f)
+- [Why AlphaGo is not AI](http://parisinnovationreview.com/articles-en/why-alphago-is-not-ai)
+- [Artificial Intelligence Pioneer Says We Need to Start Over](https://cacm.acm.org/news/221108-artificial-intelligence-pioneer-says-we-need-to-start-over/fulltext#.WtdqedeT8_w.twitter)
+- [https://www.youtube.com/watch?v=BtAVBeLuigI](https://www.youtube.com/watch?v=BtAVBeLuigI)
+- [What worries me about AI](https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704)
 
 ## Misc
 
+- [Hot vs Cold Observables](https://medium.com/@benlesh/hot-vs-cold-observables-f8094ed53339)
 - [Programmation dynamique](https://fr.wikipedia.org/wiki/Programmation_dynamique)
-- [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
+- [Shell Scripting Tutorial](https://www.shellscript.sh/)
+- [Taming The Terminal](https://www.bartbusschots.ie/s/2013/04/13/taming-the-terminal-part-1-of-n/)
+- [Choose an open source license](https://choosealicense.com/)
+- [Open source without maintainers](https://staltz.com/open-source-without-maintainers.html)
+- [5 ways open source software companies make money](https://blog.timescale.com/how-open-source-software-makes-money-time-series-database-f3e4be409467)
