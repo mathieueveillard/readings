@@ -188,6 +188,7 @@ A curated list of readings on computer sciences, and a few more things related t
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [What the f\*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [6 Amazing JavaScript Destructuring Tricks](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
+- [https://javascript.info/](https://javascript.info/)
 
 ### Rx
 
