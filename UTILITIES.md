@@ -7,6 +7,7 @@
 - https://www.epochconverter.com/
 - https://www.uuidgenerator.net/
 - https://jubianchi.github.io/semver-check/#/
+- https://bundlephobia.com/
 - https://bitly.com/ (URL shortener)
 - https://unsplash.com/ (photostock)
 - https://www.excalidraw.com/ (whiteboard)
