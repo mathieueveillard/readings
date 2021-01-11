@@ -8,6 +8,7 @@
 - https://www.uuidgenerator.net/
 - https://jubianchi.github.io/semver-check/#/
 - https://bundlephobia.com/
+- https://sharemycode.fr/
 - https://bitly.com/ (URL shortener)
 - https://unsplash.com/ (photostock)
 - https://www.excalidraw.com/ (whiteboard)
