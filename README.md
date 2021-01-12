@@ -38,6 +38,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
 - [Pair Programming Guide](https://medium.com/@weblab_tech/pair-programming-guide-a76ca43ff389)
 - [How Mob Programming Will Make You More Effective](https://hackernoon.com/how-mob-programming-will-make-you-more-effective-590a1b7e0418)
+- [Remote Mob Programming](https://www.remotemobprogramming.org/)
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c)
 - [IT As A Cost Centre](https://www.continuousdeliveryconsulting.com/blog/it-as-a-cost-centre/)
 - [How to do effective video calls](https://martinfowler.com/articles/effective-video-calls.html)
