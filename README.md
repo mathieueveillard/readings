@@ -20,6 +20,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
 - [Clément Viktorovitch](https://www.youtube.com/watch?v=RVb_KSoagwI&feature=youtu.be)
+- [Speak & sing with confidence: the Roger Love method to changing your voice](https://www.marieforleo.com/2020/08/roger-love/)
 
 ## Business, career path, ethics
 
