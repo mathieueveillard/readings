@@ -57,11 +57,23 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Rethinking Agile](https://leanpub.com/rethinking-agile-pdf)
 - [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
 
-## UX Design / Product Management
+## Product Management
 
-- [Patterns In Interaction Design](http://www.welie.com/patterns/index.php)
 - [Product management needs full-triangle builders](https://uxdesign.cc/product-management-needs-full-triangle-builders-618ac3981503)
 - [The 4 Goals of a Product Manager — Acquisition, Activation, Retention, and Monetization](https://medium.com/@rakeshkumar_64243/the-4-goals-of-a-product-manager-acquisition-activation-retention-and-monetization-2c9dcdedd71c)
+- [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
+- [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
+- [A Guide to User Story Mapping: Templates and Examples (How to Map User Stories)](https://plan.io/blog/user-story-mapping/)
+
+### Strategic DDD
+
+- [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
+- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
+- [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
+
+## UX Design
+
+- [Patterns In Interaction Design](http://www.welie.com/patterns/index.php)
 - [How to Conduct User Research Effectively](https://medium.com/swlh/how-to-conduct-user-research-effectively-b7e0293f3b7a)
 - [10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [10 Usability Heuristics Every Designer Should Know](https://uxdesign.cc/10-usability-heuristics-every-designer-should-know-129b9779ac53)
@@ -74,8 +86,6 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [22 rules for designing sign up & sign in journeys](https://uxdesign.cc/22-rules-for-user-sign-up-sign-in-journeys-e0e863cba40a)
 - [An exploration of visual indicators IRL](https://uxdesign.cc/visual-indicators-c3e0e5ce90f7)
 - [Update vs Modify vs Change - Create vs Add - Delete vs Remove](https://ux.stackexchange.com/questions/43174/update-vs-modify-vs-change-create-vs-add-delete-vs-remove)
-- [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
-- [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
 
 ## UI
 
@@ -111,12 +121,8 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [test && commit || revert](https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864)
 - [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html)
 
-### DDD
+### Tactical DDD
 
-- [Domain Driven Design en 5 minutes](https://www.arolla.fr/blog/2020/02/domain-driven-design-5-minutes/)
-- [DDD 101 — The 5-Minute Tour](https://medium.com/the-coding-matrix/ddd-101-the-5-minute-tour-7a3037cf53b8)
-- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
-- [Présentation du Bounded Context Canvas](https://blog.onehundredacorns.com/2020/06/17/presentation-du-bounded-context-canvas/)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 
 ### Refactoring
