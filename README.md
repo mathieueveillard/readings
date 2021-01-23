@@ -248,6 +248,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 ## Security
 
 - [Les 10 erreurs de cybersécurité des startups technologiques](https://www.maddyness.com/2020/08/31/10-erreurs-cybersecurite-startups/)
+- [10 Most Common Security Mistakes In Development - My Experience](https://payatu.com/blog/gaurav/10-most-common-security-mistakes-in-development---my-experience?utm_medium=email&_hsmi=107642946&_hsenc=p2ANqtz-8G7nw7khmh-2HrcC2cljecQEcWB0N1Rrzxi9VySQGtke0_ajav09c-56xENawGywHBYrFDdgWfyg9y0Ny4OVlDbBBNBKeqj887kIQYALF8lBn5yDI&utm_content=107642946&utm_source=hs_email)
 - [Security by Design Principles](https://www.owasp.org/index.php/Security_by_Design_Principles)
 - [CRYPTO101](https://www.crypto101.io/)
 - [The Da Vinci Zero Knowledge Proof](https://medium.com/swlh/the-da-vinci-zero-knowledge-proof-d6271363382b)
