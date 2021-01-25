@@ -22,6 +22,10 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Clément Viktorovitch](https://www.youtube.com/watch?v=RVb_KSoagwI&feature=youtu.be)
 - [Speak & sing with confidence: the Roger Love method to changing your voice](https://www.marieforleo.com/2020/08/roger-love/)
 
+## Productivity
+
+- [Here’s Why Everyone Should Have a Work Shutdown Ritual](https://blog.doist.com/end-work-day/?utm_medium=email&_hsmi=107642946&_hsenc=p2ANqtz-_inFX9_JDoCX5CsNJWn-CkAn4VQFmJysBYrJt9bBpm_k__edIYyjzo2Au9p9JZnPwRD03CGiXXKHq0vWne_5EtE9g8hjejFW_7d10g-ayOvQD3zDk&utm_content=107642946&utm_source=hs_email)
+
 ## Business, career path, ethics
 
 - [Freelances : bien fixer, annoncer et négocier vos tarifs (guide complet)](https://www.miximum.fr/blog/developpeur-web-freelance-tjm/)
