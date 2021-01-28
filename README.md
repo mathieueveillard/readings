@@ -57,6 +57,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Don’t Start With an MVP](https://blog.leanstack.com/dont-start-with-an-mvp-aa883de5cd18)
 - [Design Thinking, Lean Startup and Agile: What is the difference?](https://medium.com/xplor8/design-thinking-lean-startup-and-agile-what-is-the-difference-1eed3594b121)
 - [How To Build a Minimum Viable Product Without Any Code](https://medium.com/@jproco/how-to-build-a-minimum-viable-product-without-any-code-606543452c85)
+- [Productivity: Walking Skeleton the simple prioritization technique for MVPs](https://medium.com/theagilemanager/management-walking-skeleton-the-simple-prioritization-technique-for-mvps-5d99490dad59)
 - [L’agilité ou l’éloge de la confiance](https://medium.com/@mathieueveillard/lagilit%C3%A9-ou-l-%C3%A9loge-de-la-confiance-9a4ae5e0604e)
 - [Rethinking Agile](https://leanpub.com/rethinking-agile-pdf)
 - [How I think about solving problems](https://humanwhocodes.com/blog/2020/02/how-i-think-about-solving-problems/?utm_source=hwctweet)
