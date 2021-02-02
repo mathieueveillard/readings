@@ -17,6 +17,7 @@
 - https://runkit.com/ (NodeJS koans)
 - https://stackblitz.com/ (sandbox)
 - https://mailchimp.com/ (emailing)
+- https://www.sharedrop.io/ (P2P file transfer)
 - https://www.typeform.com/ (surveys)
 - https://stripe.com/ (online payment)
 - https://www.hotjar.com/ (heatmaps)
