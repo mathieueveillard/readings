@@ -39,6 +39,10 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [How to write a great developer résumé and showcase your software engineering skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 - [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
 
+## Startups
+
+- [Startup Accelerators Vs. Incubators Vs. Studios Vs. Co-working](https://medium.com/swlh/startup-accelerators-vs-incubators-vs-studios-vs-co-working-b20d4cb32c04)
+
 ## Teams, Work & Organizations
 
 - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
