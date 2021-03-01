@@ -74,6 +74,8 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
 - [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
 - [A Guide to User Story Mapping: Templates and Examples (How to Map User Stories)](https://plan.io/blog/user-story-mapping/)
+- [20 Product Prioritization Techniques: A Map and Guided Tour](https://foldingburritos.com/product-prioritization-techniques/)
+- [9 product prioritization frameworks for product managers](https://roadmunk.com/guides/product-prioritization-techniques-product-managers/#3kanomodel)
 
 ### Strategic DDD
 
