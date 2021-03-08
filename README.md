@@ -191,6 +191,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 
 ### Redux
 
+- [The 5 Types Of React Application State](http://jamesknelson.com/5-types-react-application-state/)
 - [Dan Abramov - The Redux Journey at react-europe 2016](https://www.youtube.com/watch?v=uvAXVMwHJXU&feature=youtu.be)
 - [FAQ updates](https://github.com/reduxjs/redux/issues/1785)
 - [Redux Ecosystem Links](https://github.com/markerikson/redux-ecosystem-links)
