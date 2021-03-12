@@ -69,6 +69,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 
 ## Product Management
 
+- [Impact Mapping on One Page](http://itscertainlyuncertain.blogspot.com/2013/12/impact-mapping-on-one-page.html)
 - [Product management needs full-triangle builders](https://uxdesign.cc/product-management-needs-full-triangle-builders-618ac3981503)
 - [The 4 Goals of a Product Manager — Acquisition, Activation, Retention, and Monetization](https://medium.com/@rakeshkumar_64243/the-4-goals-of-a-product-manager-acquisition-activation-retention-and-monetization-2c9dcdedd71c)
 - [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
