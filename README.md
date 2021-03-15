@@ -153,6 +153,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Composing Software: The Book](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 - [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS/tree/master/manuscript)
 - [F# for fun and profit](https://fsharpforfunandprofit.com/)
+- [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
 
