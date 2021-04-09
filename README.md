@@ -42,6 +42,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 ## Startups
 
 - [Startup Accelerators Vs. Incubators Vs. Studios Vs. Co-working](https://medium.com/swlh/startup-accelerators-vs-incubators-vs-studios-vs-co-working-b20d4cb32c04)
+- [1,000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
 
 ## Teams, Work & Organizations
 
