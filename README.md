@@ -4,7 +4,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 See also our curated list of [utilities](./UTILITIES.md).
 
-## Learning / Teaching
+## Learning / Teaching / Coaching
 
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
 - [Shuhari](https://en.wikipedia.org/wiki/Shuhari)
@@ -15,6 +15,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 - [How to Learn a New Programming Language or Framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
 - [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
+- [Coaching Technical Practices](https://www.infoq.com/articles/coaching-technical-practices/#.W1nn32YLbvw.twitter)
 
 ## Giving a talk
 
