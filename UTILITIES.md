@@ -1,7 +1,8 @@
 # Utilities
 
 - https://fonts.google.com/
-- https://htmlcolorcodes.com/fr/tableau-de-couleur/
+- https://coolors.co/
+- https://mycolor.space/
 - https://fr.lipsum.com/
 - https://regex101.com/
 - https://www.epochconverter.com/
