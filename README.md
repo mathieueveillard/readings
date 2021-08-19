@@ -158,6 +158,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
 - [Reginald Braithwaite](http://raganwald.com/)
 - [Understanding Transducers in JavaScript](https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624)
+- [Types vs Tests - Julien Truffaut](https://www.youtube.com/watch?v=apu-J0msaiY&ab_channel=LambdAle)
 
 ### Object Oriented Programming
 
