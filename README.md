@@ -16,6 +16,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [How to Learn a New Programming Language or Framework](https://hackernoon.com/how-to-learn-a-new-programming-language-faster-dc31ec8367cb)
 - [Why so Many Developers Quit Before Ever Getting a Job. Please — don’t.](https://medium.freecodecamp.org/why-so-many-developers-quit-before-ever-getting-a-job-please-dont-1c0fd6459e5e)
 - [Coaching Technical Practices](https://www.infoq.com/articles/coaching-technical-practices/#.W1nn32YLbvw.twitter)
+- [Patterns in confusing explanations](https://jvns.ca/blog/confusing-explanations/)
 
 ## Giving a talk
 
