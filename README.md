@@ -229,17 +229,21 @@ See also our curated list of [utilities](./UTILITIES.md).
 
 ## Back-end
 
+### Microservices, Event-Driven Architecture
+
+- [Microservices – Les concepts](https://blog.xebia.fr/2015/03/02/microservices-les-concepts/)
+- [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
+- [Handling Distributed Transactions in the Microservice world](https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0)
+- [Eventual Consistency for Mere Mortals](https://ralfw.de/2019/06/eventual-consistency-for-mere-mortals/)
+- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
+
 ### Hexagonal Architecture, microservices, event sourcing, CQRS
 
 - [Architectural Katas](https://archkatas.herokuapp.com/)
 - [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
 - [Pérennisez votre métier avec l’architecture hexagonale !](https://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/)
-- [Microservices – Les concepts](https://blog.xebia.fr/2015/03/02/microservices-les-concepts/)
-- [Handling Distributed Transactions in the Microservice world](https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0)
-- [Eventual Consistency for Mere Mortals](https://ralfw.de/2019/06/eventual-consistency-for-mere-mortals/)
 - [Event Sourcing : comprendre les bases d’un système évènementiel](https://blog.xebia.fr/2017/01/16/event-sourcing-comprendre-les-bases-dun-systeme-evenementiel/)
 - [1 Year of Event Sourcing and CQRS](https://medium.com/@teivah/1-year-of-event-sourcing-and-cqrs-fb9033ccd1c6)
-- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
 
 ### API design
 
