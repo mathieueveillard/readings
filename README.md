@@ -59,6 +59,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Bien-être au travail : l’erreur médiatique](https://siecledigital.fr/2017/07/24/bien-etre-au-travail/)
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
 - [Don’t solve problems if you want to be a great manager](https://medium.com/know-your-team-blog/dont-solve-problems-if-you-want-to-be-a-great-manager-ff85ae708473)
+- [The 5 stages of CTO & the CTO Career Chasm](https://calbucci.com/the-5-stages-of-cto-career-chasm-9d7c04e2ae66)
 
 ## Design Thinking, Lean Startup, Agile
 
