@@ -60,6 +60,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [How to Leverage Introversion as a Career Strength](https://medium.com/@cornett/how-to-leverage-introversion-as-a-career-strength-7a1c0371f2fa)
 - [Don’t solve problems if you want to be a great manager](https://medium.com/know-your-team-blog/dont-solve-problems-if-you-want-to-be-a-great-manager-ff85ae708473)
 - [The 5 stages of CTO & the CTO Career Chasm](https://calbucci.com/the-5-stages-of-cto-career-chasm-9d7c04e2ae66)
+- [CTO de startup à scaleup](https://eventuallycoding.com/2021/05/03/cto-de-startup-a-scaleup/?utm_medium=email&_hsmi=145052534&_hsenc=p2ANqtz-9ck5sV19llfdoy19a4QKzDG_dJlAb-53VewmLgc2v0FzaqqnbUTOmTDYIvP4omdno5C18dZ88qkNauPt6vpkNro5eIsV28KMPTqRoE3yWTmOcgKRQ&utm_content=145052534&utm_source=hs_email)
 
 ## Design Thinking, Lean Startup, Agile
 
