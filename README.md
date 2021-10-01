@@ -108,9 +108,10 @@ See also our curated list of [utilities](./UTILITIES.md).
 
 ## UI
 
+- [Material Design](https://material.io/)
+- [Better Web Type](https://betterwebtype.com/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [11 Extremely Helpful (And Free!) Online Graphic Design Courses](https://www.format.com/magazine/resources/design/free-online-graphic-design-courses)
-- [Better Web Type](https://betterwebtype.com/)
 
 ## Craft
 
