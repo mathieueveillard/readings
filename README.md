@@ -214,6 +214,7 @@ See also our curated list of [utilities](./UTILITIES.md).
 - [Reset CSS](https://www.alsacreations.com/astuce/lire/36-la-technique-du-reset-css.html)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Defensive CSS](https://ishadeed.com/article/defensive-css/?s=03)
 
 ### Micro Front-End
 
