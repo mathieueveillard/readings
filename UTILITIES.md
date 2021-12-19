@@ -1,27 +1,23 @@
 # Utilities
 
+- https://translate.google.fr/?sl=en&tl=fr&op=translate&hl=fr
+- https://www.uuidgenerator.net/
+- https://passwordsgenerator.net/
+- https://www.qr-code-generator.com/
+- https://unsplash.com/
+- https://www.iloveimg.com/
+- https://bitly.com/
+- https://www.typeform.com/
+- https://runkit.com/
+- https://app.moqups.com/
 - https://fonts.google.com/
 - https://coolors.co/
 - https://mycolor.space/
 - https://fr.lipsum.com/
 - https://regex101.com/
 - https://www.epochconverter.com/
-- https://www.uuidgenerator.net/
-- https://jubianchi.github.io/semver-check/#/
-- https://bundlephobia.com/
-- https://sharemycode.fr/
 - https://keycode.info/
-- https://bitly.com/ (URL shortener)
-- https://unsplash.com/ (photostock)
-- https://www.excalidraw.com/ (whiteboard)
-- https://revealjs.com/#/ (slides)
-- https://www.iloveimg.com/ (meme generator)
-- https://runkit.com/ (NodeJS koans)
-- https://stackblitz.com/ (sandbox)
-- https://mailchimp.com/ (emailing)
-- https://www.sharedrop.io/ (P2P file transfer)
-- https://www.typeform.com/ (surveys)
-- https://stripe.com/ (online payment)
-- https://www.hotjar.com/ (heatmaps)
-- https://app.moqups.com/ (wireframes)
-- https://www.overleaf.com/ (LaTeX)
+- https://bundlephobia.com/
+- https://www.excalidraw.com/
+- https://sharemycode.fr/
+- https://www.overleaf.com/
