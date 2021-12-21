@@ -2,8 +2,6 @@
 
 A curated list of readings on computer sciences, and a few more things related to it.
 
-See also our curated list of [utilities](./UTILITIES.md).
-
 ## Learning / Teaching / Coaching
 
 - [Things I Don’t Know as of 2018](https://overreacted.io/things-i-dont-know-as-of-2018/)
