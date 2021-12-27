@@ -176,6 +176,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### JavaScript
 
+- [Just JavaScript, by Dan Abramov](https://justjavascript.com/)
 - [How JavaScript works](https://blog.sessionstack.com/tagged/tutorial)
 - [Dans les entrailles de JavaScript](https://blog.octo.com/dans-les-entrailles-de-javascript-partie-1/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -234,6 +235,7 @@ A curated list of readings on computer sciences, and a few more things related t
 
 ### Microservices, Event-Driven Architecture
 
+- [microservices.io/](https://microservices.io/)
 - [Microservices – Les concepts](https://blog.xebia.fr/2015/03/02/microservices-les-concepts/)
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
 - [Handling Distributed Transactions in the Microservice world](https://medium.com/swlh/handling-transactions-in-the-microservice-world-c77b275813e0)
