@@ -150,6 +150,10 @@ A curated list of readings on computer sciences, and a few more things related t
 - [The Mikado method](https://pragprog.com/magazines/2010-06/the-mikado-method)
 - [7 techniques pour reprendre le contrôle de ton legacy code](https://www.jesuisundev.com/7-techniques-pour-reprendre-le-controle-de-ton-legacy-code/)
 
+### Kata
+
+- [Advent of code](https://adventofcode.com/)
+
 ## Paradigms
 
 - [Four Languages from Forty Years Ago - Scott Wlaschin](https://www.youtube.com/watch?v=mRwHZTNGdoY&feature=youtu.be)
