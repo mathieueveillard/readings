@@ -103,6 +103,7 @@ A curated list of readings on computer sciences.
 
 ### Kata
 
+- [Le CodeKata fête ses 19 ans : petit retour sur la pratique](https://fhiegel.github.io/blog/2022/03/24/codekata--19-ans-aujourdhui/)
 - [Advent of code](https://adventofcode.com/)
 - [Architectural Katas](https://archkatas.herokuapp.com/)
 
