@@ -18,6 +18,7 @@ A curated list of readings on computer sciences.
 - [Open source](#open-source)
 - [Learning](#learning)
 - [Giving a talk](#giving-a-talk)
+- [Misc.](#misc)
 
 ## UX
 
@@ -228,5 +229,11 @@ A curated list of readings on computer sciences.
 - [How to write a conference talk](https://medium.com/@femkesvs/how-to-write-a-conference-talk-9262d4ddd1c5)
 - [Clément Viktorovitch](https://www.youtube.com/watch?v=RVb_KSoagwI&feature=youtu.be)
 - [Speak & sing with confidence: the Roger Love method to changing your voice](https://www.marieforleo.com/2020/08/roger-love/)
+
+[Back to top](#summary)
+
+## Misc.
+
+- [Case Styles: Camel, Pascal, Snake, and Kebab Case](https://betterprogramming.pub/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841)
 
 [Back to top](#summary)
