@@ -13,6 +13,7 @@ A curated list of readings on computer sciences.
 - [API design](#api-design)
 - [Performances](#performances)
 - [Security](#security)
+- [Operations](#operations)
 - [Terminal](#terminal)
 - [Version control](#version-control)
 - [Open source](#open-source)
@@ -185,11 +186,7 @@ A curated list of readings on computer sciences.
 ## Operations
 
 - [The twelve-factor app](https://12factor.net/)
-
-[Back to top](#summary)
-
-## Terminal
-
+- [An Illustrated Guide to SSH Agent Forwarding](http://www.unixwiz.net/techtips/ssh-agent-forwarding.html)
 - [Shell Scripting Tutorial](https://www.shellscript.sh/)
 - [Taming The Terminal](https://www.bartbusschots.ie/s/2013/04/13/taming-the-terminal-part-1-of-n/)
 
