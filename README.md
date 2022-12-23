@@ -186,6 +186,7 @@ A curated list of readings on computer sciences.
 
 ## Operations
 
+- [What are DORA Metrics and Why Do They Matter?](https://codeclimate.com/blog/dora-metrics/)
 - [The twelve-factor app](https://12factor.net/)
 - [An Illustrated Guide to SSH Agent Forwarding](http://www.unixwiz.net/techtips/ssh-agent-forwarding.html)
 - [Shell Scripting Tutorial](https://www.shellscript.sh/)
