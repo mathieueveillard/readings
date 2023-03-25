@@ -31,6 +31,7 @@
 - [The 4 Goals of a Product Manager — Acquisition, Activation, Retention, and Monetization](https://medium.com/@rakeshkumar_64243/the-4-goals-of-a-product-manager-acquisition-activation-retention-and-monetization-2c9dcdedd71c)
 - [The 3 qualities of a great product](https://uxdesign.cc/the-3-qualities-of-a-great-product-2edc8e45c0bc)
 - [Technical Debt Is Overhyped. Let’s Talk about Product Debt](https://medium.com/swlh/technical-debt-is-overhyped-lets-talk-about-product-debt-4b422a33894b)
+- [NoEstimate](https://www.youtube.com/watch?v=hy87q2kZ6y8&ab_channel=SoftwareCraftsRomandieCommunity)
 
 ## Back-end
 
