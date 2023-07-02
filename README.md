@@ -4,6 +4,7 @@ A curated list of readings on computer sciences.
 
 ## Summary
 
+- [Organization](#organization)
 - [UX](#ux)
 - [UI](#ui)
 - [Paradigms](#paradigms)
@@ -20,6 +21,10 @@ A curated list of readings on computer sciences.
 - [Learning](#learning)
 - [Giving a talk](#giving-a-talk)
 - [Misc.](#misc)
+
+## Organization
+
+- [How to Build a Growth Engineering Team That WINS.](https://elenaverna.substack.com/p/how-to-build-a-growth-engineering)
 
 ## UX
 
@@ -64,6 +69,7 @@ A curated list of readings on computer sciences.
 - [Design Patterns (TutorialsPoint)](https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm)
 - [Severin Perez](https://medium.com/@severinperez)
 - [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+- [Elegant Objects](https://www.elegantobjects.org/)
 
 [Back to top](#summary)
 
